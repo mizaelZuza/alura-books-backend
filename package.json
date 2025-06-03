@@ -11,6 +11,15 @@
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
+    "cors": "^2.8.5",
     "express": "^5.1.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mizaelZuza/alura-books-backend.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mizaelZuza/alura-books-backend/issues"
+  },
+  "homepage": "https://github.com/mizaelZuza/alura-books-backend#readme"
 }
